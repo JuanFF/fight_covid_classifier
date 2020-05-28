@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-/Tweepy/
+/Tweepy/*
 *.py[cod]
 *$py.class
 /ann_desktop/input/corpus
