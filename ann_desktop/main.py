@@ -5,7 +5,7 @@ from ann_desktop import *
 from classifier_pkg import classifier
 
 
-with open('input/mensajes2.txt', 'r', encoding = 'utf-8') as msgFile:
+with open('input/filtrados.txt', 'r', encoding = 'utf-8') as msgFile:
 	messages = [line.rstrip() for line in msgFile.readlines()]
 
 model = classifier.loadModel('../classifier_pkg/defeatVirus.train.txt')
