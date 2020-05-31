@@ -5,7 +5,7 @@ def getSimilarityScore (firstString, secondString):
 
 accumulated = []
 
-with open('tweets-viernes.txt', 'r', encoding = 'utf-8') as inFile:
+with open('tweets-domingo.txt', 'r', encoding = 'utf-8') as inFile:
 	count = 0
 	for line in inFile:
 		line = line.rstrip()
