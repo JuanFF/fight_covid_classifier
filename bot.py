@@ -18,32 +18,23 @@ def writeFile (status):
 		outFile.write(toPrint + '\n')
 
 
-def cleanseString (tweetString):
-	
-	rules = [
-		('\s*http.+', ''),
-		('\s+vía http.+', ''),
-		('^RT @\S+\: ', ''),
-		('^\S+ \| ', ''),
-		('^\S+\: ', ''),
-		('^(@\S+ )+', ''),
-		('( @\S+)+$', ''),
-		('( #\S+){2,}$', ''),
-		('^(#\S+ ){2,}', ''),
-		('…$', '')
-	]
+def checkTooSimilar (string, storedMessages):
 
-	for rule in rules:
-		tweetString = re.sub(rule[0], rule[1], tweetString)
+	tooSimilar = False
+
+	from difflib import SequenceMatcher
+	for storedMsg in storedMessages:
+		if SequenceMatcher(None, string, storedMsg).ratio() > 0.75:
+			tooSimilar = True
+			break
 	
-	return tweetString
+	return tooSimilar
 
 
 def analyzeUser (status):
 
 	if status.user.verified is True:
 		return True
-	
 	else:
 		description = status.user.description
 		if description:
@@ -54,49 +45,51 @@ def analyzeUser (status):
 				descriptionLabel = classifier.classify(description_model, descriptionAnnResult[0])
 				if descriptionLabel == 'isSpecialist':
 					return True
-				else:
-					return False
-			else:
-				return False
-		else:
-			return False
+		return False
 
 
-def analyzeMessage (status):
+def findQueries (queries, string):
+	for query in queries:
+		if query in string.lower():
+			return True
+	return False
+
+
+def analyzeTweet (status, queries, storedMessages):
 
 	message = status.text
 
 	if '\n' in message:
 		return False
 
-	cleansedMsg = cleanseString(message)
-	if cleansedMsg.lower() in storedMessages:
+	if findQueries(queries, message) is False:
 		return False
-
+	
 	userAnalysis = analyzeUser(status)
 
 	if userAnalysis is True:
+		if checkTooSimilar(message.lower(), storedMessages) is True:
+			return False
 		messageAnnResult = annotator.annotator(message, 'annotator_pkg/lang_data/defeatVirus_nodes.json')
 		if messageAnnResult:
 			messageLabel = classifier.classify(message_model, messageAnnResult[0])
 			if messageLabel == 'defeat':
 				storedMessages.append(message)
 				return True
-			else:
-				return False
-		else:
-			return False
-	else:
-		return False
+	return False
 
 	
 
 class CustomStreamListener(tweepy.StreamListener):
 
+	storedMessages = []
+
 	def on_status(self, status): 
 		if status.lang == 'es':
-			analysis = analyzeMessage(status)
+			analysis = analyzeTweet(status, queries, storedMessages)
 			if analysis is True:
+				if len(storedMessages) > 100:
+					storedMessages.clear()
 				try:
 					writeFile(status)
 					# api.retweet(id = status.id)
@@ -108,7 +101,7 @@ auth = tweepy.OAuthHandler(twitter_keys.consumer_key, twitter_keys.consumer_secr
 auth.set_access_token(twitter_keys.access_token, twitter_keys.access_token_secret)
 api = tweepy.API(auth) 
 
-queries = ['covid', 'covid-19', 'coronavirus', 'el virus']
+queries = ['covid', 'covid-19', 'coronavirus', 'sars-cov-2']
 
 description_model = classifier.loadModel('classifier_pkg/isSpecialist.train.txt')
 message_model = classifier.loadModel('classifier_pkg/defeatVirus.train.txt')
@@ -121,5 +114,5 @@ while True:
 	try:
 		sapi.filter(track = queries)
 	except (ProtocolError):
-		time.sleep(15)
+		time.sleep(5)
 		continue
