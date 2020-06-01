@@ -1,1 +1,1627 @@
-[{"id": 0, "frame": "isSpecialist", "forms": ["anestesiólogo", "anestesista", "bioestadístico", "bióloga", "biólogo", "biotecnóloga", "biotecnólogo", "boticaria", "boticario", "cardióloga", "cardiólogo", "cirujana", "cirujano", "citopatólogo", "dentista", "dermatóloga", "dermatólogo", "dermatopatóloga", "dermatopatólogo", "ecocardiógrafo", "electrofisiólogo", "endocrinóloga", "endocrinólogo", "médico endrocrino", "enfermera", "enfermero", "epidemiólogo", "epidemióloga", "estudiante de medicina", "facultativo", "farmacéutica", "farmacéutico", "farmacólogo", "fisiatra", "fisiólogo", "fisioterapeuta", "gastroenterólogo", "genetista", "geriatra", "ginecóloga", "ginecólogo", "hematóloga", "hematólogo", "hematopatóloga", "hematopatólogo", "hepatólogo", "inmunóloga", "inmunólogo", "inmunoterapeuta", "intensivista", "internista", "médico", "médico residente", "microbióloga", "microbiólogo", "nefrólogo", "nefróloga", "neonatóloga", "neonatólogo", "neurocientífica", "neurocientífico", "neurocirujana", "neurocirujano", "neuróloga", "neurólogo", "neuropatóloga", "neuropatólogo", "neurorradióloga", "neurorradiólogo", "obstetra", "oftalmóloga", "oftalmólogo", "oncóloga", "oncólogo", "ortopedista", "osteópata", "otorrinolaringóloga", "otorrinolaringólogo", "patóloga", "patólogo", "pediatra", "perinatólogo", "podólogo", "psicóloga clínica", "psicólogo clínico", "psiquiatra", "radióloga", "radiólogo", "reumatólogo", "reumatóloga", "sanitaria", "sanitario", "trabajador social", "trabajadora social", "uroginecólogo", "uróloga", "urólogo", "odontólogo", " odontóloga", "profesor asociado", " profesor titular", "bioinformático", "neuropsicóloga", "neuropsicólogo", "auxiliar de enfermería", "auxiliar de clínica", "médico de familia", "científico", "científica", "docente", "profesional sanitario", "profesional de la sanidad", "especialista", "químico farmacéutico", "química farmacéutica", "experto", "profesor", "médico internista", "medico", "traumatólogo", "traumatóloga", "ginecoobstetra", "cirujana general", "cirujano general", "médico cirujano", "medico especialista", "biólogo molecular", "bióloga molecular", "investigador", "investigadora", "cirujano vascular", "cirujana vascular", "citotecnólogo", "aux.{1,10}enfermería", "farmaceutico", "farmaceutica", "médico nuclear", "médica", "general practitioner", "médico especialista", "\\bmd\\b", "médico del deporte", "médico general", "infectólogo", "infectóloga", "hepatóloga"], "role": "specialist"}, {"id": 1, "frame": "isSpecialist", "forms": ["medicina forense", "anestesiología", "anestesia", "anatomía", "autoinmunidad", "bioquímica", "bioingeniería", "biología", "biofarma", "biociencias", "bioestadística", "biotecnología", "cardiología", "dermatología", "odontología", "ecocardiografía", "hematología", "eSalud", "endocrinología", "endodoncia", "epidemiología", "gastroenterología", "genética", "genómica", "geriatría", "ginecología", "histología", "inmunología", "inmunometabolismo", "inmunoterapia", "medicina", "medtech", "microbiología", "nanotecnología", "neonatologia", "nefrología", "neurooncología", "neurología", "neurociencia", "neurocirugía", "enfermería", "obstetricia", "oncología", "oncopatología", "oftalmología", "ortopedia", "otorrinolaringología", "parasitología", "pediatría", "industria farmacéutica", "farmacología", "fisiología", "psiquiatría", "radiología", "reumatología", "cirugía", "toxicología", "urología", "virología", "hematooncología", "servicios de salud", "farmacia", "distribución farmacéutica", "traumatología", "medicina intensiva", "inmunooncología", "psicopatología", "lipidología", "vih", "atención primaria", "medicina familiar", "farmacia hospitalaria", "aparato digestivo", "aparato reproductor", "aparato respiratorio", "sector salud", "infecciones", "patologías", "patología", "medicina interna", "gastroenterologia", "cancer", "cáncer", "cardiovascular", "la salud", "cirujía general", "cirugía general", "cirugía plástica", "diabetes", "ciencias médicas", "ciencias de la salud", "laparoscopia", "cuidados paliativos", "nutrición humana", "nutrición humana y dietética", "salud mental", "salud pública", "neonatología", "información sanitaria", "información médica", "hipnosis clínica", "farmacia asistencial", "área de la salud", "diagnóstico por imagen", "atención médica", "tecnología médica", "gestión sanitaria", "control de enfermedades", "temas de salud", "temas en salud", "análisis clínicos", "tratamiento del dolor", "fibrosis quística", "neumología", "consejo superior de investigaciones científicas", "csic", "metabolismo", "cirugía vascular", "enfermedades autoinmunes", "estomatología", "radiodiagnóstico", "radio diagnóstico", "medicina preventiva", "enfermedades infecciosas", "medicina de familia"], "role": "field"}, {"id": 2, "frame": "isSpecialist", "forms": ["hospital", "centro", "clínica", "instituto", "universidad", "facultad", "laboratorio", "departamento", "hospital universitario", "unidad del", "complejo hospitalario", "unidad de", "sociedad española", "asociación", "escuela", "ministerio", "organización", "institución", "biblioteca", "observatorio", "consultorio", "colegio oficial", "colegios oficiales", "instituto nacional", "hospital médico", "centro médico", "sindicato", "colegio", "hospital comarcal"], "role": "place"}, {"frame": "isSpecialist", "role": "degree", "forms": ["magister", "msc \\.", "licenciado", "licenciada", "maestria", "maestría", "máster", "mba", "doctor", "phd", "master", "posgrado", "postgrado", "formación en", "técnico superior", "dr \\.", "m\\.\\d\\.", "catedrático", "diplomado", "diplomada", "lcdo", "graduado", "graduada", "magíster", "dra \\."], "id": 3}, {"frame": "isSpecialist", "role": "lead", "forms": ["coordinador", "coordinadora", "jefe", "director", "gerente", "gestor"], "id": 4}, {"frame": "isSpecialist", "role": "certified", "forms": ["cuenta oficial", "twitter oficial"], "id": 5}]
+[
+    {
+        "form": "anestesiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "anestesista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bioestadístico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biotecnóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biotecnólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "boticaria",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "boticario",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cardióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cardiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujana",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujano",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "citopatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dentista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dermatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dermatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dermatopatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dermatopatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ecocardiógrafo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "electrofisiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "endocrinóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "endocrinólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico endrocrino",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "enfermera",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "enfermero",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "epidemiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "epidemióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "estudiante de medicina",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "facultativo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacéutica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacéutico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "fisiatra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "fisiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "fisioterapeuta",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gastroenterólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "genetista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "geriatra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ginecóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ginecólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematopatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematopatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hepatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunoterapeuta",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "intensivista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "internista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico residente",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "microbióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "microbiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nefrólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nefróloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neonatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neonatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurocientífica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurocientífico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurocirujana",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurocirujano",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neuróloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neuropatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neuropatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurorradióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurorradiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "obstetra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oftalmóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oftalmólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oncóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oncólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ortopedista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "osteópata",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "otorrinolaringóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "otorrinolaringólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "patóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "patólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "pediatra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "perinatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "podólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "psicóloga clínica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "psicólogo clínico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "psiquiatra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "radióloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "radiólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "reumatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "reumatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "trabajador social",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "trabajadora social",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "uroginecólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "uróloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "urólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "odontólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": " odontóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "profesor asociado",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": " profesor titular",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bioinformático",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neuropsicóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neuropsicólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "auxiliar de enfermería",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "auxiliar de clínica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico de familia",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "científico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "científica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "docente",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "profesional sanitario",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "profesional de la sanidad",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "químico farmacéutico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "química farmacéutica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico internista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "traumatólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "traumatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ginecoobstetra",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujana general",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujano general",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico cirujano",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medico especialista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biólogo molecular",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bióloga molecular",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "investigador",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "investigadora",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujano vascular",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujana vascular",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "citotecnólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "auxiliar de enfermería",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmaceutico",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmaceutica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico nuclear",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médica",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "general practitioner",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico especialista",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "\\bmd\\b",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico del deporte",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "médico general",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "infectólogo",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "infectóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hepatóloga",
+        "role": "specialist",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina forense",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "anestesiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "anestesia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "anatomía",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "autoinmunidad",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bioquímica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bioingeniería",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biociencias",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "bioestadística",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biotecnología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cardiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dermatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "odontología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ecocardiografía",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "eSalud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "endocrinología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "endodoncia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "epidemiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gastroenterología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "genética",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "genómica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "geriatría",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ginecología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "histología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunometabolismo",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunoterapia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medtech",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "microbiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nanotecnología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neonatologia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nefrología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurooncología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurociencia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neurocirugía",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "enfermería",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "obstetricia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oncología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oncopatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "oftalmología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ortopedia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "otorrinolaringología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "parasitología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "pediatría",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "industria farmacéutica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "fisiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "psiquiatría",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "radiología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "reumatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirugía",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "toxicología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "urología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "virología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hematooncología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "servicios de salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "distribución farmacéutica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "traumatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina intensiva",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "inmunooncología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "psicopatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "lipidología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "vih",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "atención primaria",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina familiar",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacia hospitalaria",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "aparato digestivo",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "aparato reproductor",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "aparato respiratorio",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "sector salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "infecciones",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "patologías",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "patología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina interna",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gastroenterologia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cardiovascular",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "la salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirujía general",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cáncer",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirugía plástica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "diabetes",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ciencias médicas",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ciencias de la salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "laparoscopia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cuidados paliativos",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nutrición humana",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "nutrición humana y dietética",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "salud mental",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "salud pública",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neonatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "información sanitaria",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "información médica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hipnosis clínica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "farmacia asistencial",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "área de la salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "diagnóstico por imagen",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "atención médica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "tecnología médica",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gestión sanitaria",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "control de enfermedades",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "temas de salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "temas en salud",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "análisis clínicos",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "tratamiento del dolor",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "fibrosis quística",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "neumología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "consejo superior de investigaciones científicas",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "csic",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "metabolismo",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cirugía vascular",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "enfermedades autoinmunes",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "estomatología",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "radiodiagnóstico",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "radio diagnóstico",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina preventiva",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "enfermedades infecciosas",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "medicina de familia",
+        "role": "field",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hospital",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "centro",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "clínica",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "instituto",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "universidad",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "facultad",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "laboratorio",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "departamento",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hospital universitario",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "unidad del",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "complejo hospitalario",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "unidad de",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "sociedad española",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "asociación",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "escuela",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "ministerio",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "organización",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "institución",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "biblioteca",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "observatorio",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "consultorio",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "colegio oficial",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "colegios oficiales",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "instituto nacional",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hospital médico",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "centro médico",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "sindicato",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "colegio",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "hospital comarcal",
+        "role": "place",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "magister",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "msc \\.",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "licenciado",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "licenciada",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "maestria",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "maestría",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "máster",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "mba",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "doctor",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "phd",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "master",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "posgrado",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "postgrado",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "formación en",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "técnico superior",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dr \\.",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "m\\.\\d\\.",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "catedrático",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "diplomado",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "diplomada",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "lcdo",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "graduado",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "graduada",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "magíster",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "dra \\.",
+        "role": "degree",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "coordinador",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "coordinadora",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "jefe",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "director",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gerente",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "gestor",
+        "role": "lead",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "cuenta oficial",
+        "role": "certified",
+        "frame": "isSpecialist"
+    },
+    {
+        "form": "twitter oficial",
+        "role": "certified",
+        "frame": "isSpecialist"
+    }
+]
