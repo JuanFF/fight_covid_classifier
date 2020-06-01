@@ -41,7 +41,7 @@
     },
     {
         "form": "posible respuesta",
-        "role": "weapon",
+        "role": "success",
         "frame": "defeat"
     },
     {
@@ -100,8 +100,8 @@
         "frame": "defeat"
     },
     {
-        "form": "sars",
-        "role": "enemy",
+        "form": "lombardía",
+        "role": "country",
         "frame": "defeat"
     },
     {
@@ -1085,6 +1085,21 @@
         "frame": "defeat"
     },
     {
+        "form": "moderna",
+        "role": "soldier",
+        "frame": "defeat"
+    },
+    {
+        "form": "moderna inc",
+        "role": "soldier",
+        "frame": "defeat"
+    },
+    {
+        "form": "moderna therapeutics",
+        "role": "soldier",
+        "frame": "defeat"
+    },
+    {
         "form": "Instituto",
         "role": "soldier",
         "frame": "defeat"
@@ -1508,5 +1523,30 @@
         "frame": "defeat",
         "role": "type_of_weapon",
         "form": "placenta"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "gran gretaña"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "cansino biologics"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "cansino"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "precision nanosystem"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "pfizer"
     }
 ]
