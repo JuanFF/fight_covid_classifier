@@ -51,42 +51,32 @@ def queryForNode (nodeFilePath, annSchemeFilePath):
 	inputForms = input(colorString('forms > ', 'red'))
 	inputForms = inputForms.split(',')
 	print(colorString('+ ' + str(inputForms), 'green'))
-	# inputContexts = queryWhLoop('context')
-	# inputFeatures = queryWhLoop('feature')
 
-	annInput = {
-		'frame': inputFrame,
-		'role': inputRole,
-		'forms': inputForms
-		# 'contexts': inputContexts,
-		# 'features': inputFeatures
-	}
+	annInputs = []
 
-	return annInput
+	for inputForm in inputForms:
+		annInput = {
+			'frame': inputFrame,
+			'role': inputRole,
+			'form': inputForm
+		}
+		annInputs.append(annInput)
+
+	return annInputs
 
 
-def writeToNodeFile (annInput, targetFilePath):
+def writeToNodeFile (annInputs, targetFilePath):
 
 	with open(targetFilePath, 'r', encoding = 'utf-8') as targetFile:
 		fileData = json.load(targetFile)
 	
-	updateNode = False
-
-	for i in range(len(fileData)):
-		if annInput['frame'] == fileData[i]['frame']:
-			if annInput['role'] == fileData[i]['role']:
-				updateNode = True
-				if annInput['forms']:
-					for inputForm in annInput['forms']:
-						if inputForm not in fileData[i]['forms']:
-							fileData[i]['forms'].append(inputForm)
-
-	if updateNode is False:
-		annInput['id'] = len(fileData)
-		fileData.append(annInput)
+	for annInput in annInputs:
+		allForms = [node['form'] for node in fileData]
+		if annInput['form'] not in allForms:
+			fileData.append(annInput)
 
 	with open(targetFilePath, 'w', encoding = 'utf-8') as targetFile:
-		json.dump(fileData, targetFile, ensure_ascii=False)
+		json.dump(fileData, targetFile, ensure_ascii=False, indent=4)
 
 
 def queryAndAddTrain (annString, trainFilePath, annSchemeFilePath):
