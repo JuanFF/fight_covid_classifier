@@ -760,16 +760,6 @@
         "frame": "defeat"
     },
     {
-        "form": "estudio",
-        "role": "type_of_weapon",
-        "frame": "defeat"
-    },
-    {
-        "form": "estudios",
-        "role": "type_of_weapon",
-        "frame": "defeat"
-    },
-    {
         "form": "ensayo humano",
         "role": "type_of_weapon",
         "frame": "defeat"
@@ -1548,5 +1538,55 @@
         "frame": "defeat",
         "role": "soldier",
         "form": "pfizer"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "mecanismos de reproducción"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "mecanismo de reproducción"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "lopinavir"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "afivavir"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "ee \\.uu\\."
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "ee \\.uu \\."
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "ácido acetilsalicílico"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "los rusos"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "ivermecticina"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "fallecimientos"
     }
 ]

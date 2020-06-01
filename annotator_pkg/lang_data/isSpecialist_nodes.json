@@ -1623,5 +1623,50 @@
         "form": "twitter oficial",
         "role": "certified",
         "frame": "isSpecialist"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "enfermedades respiratorias"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "degree",
+        "form": "dr\\.? "
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "degree",
+        "form": "dr "
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "degree",
+        "form": "\\bdr\\b"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "rehabilitación"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "biología molecular"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "información.+sanitaria"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "sanidad"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "infectología"
     }
 ]
