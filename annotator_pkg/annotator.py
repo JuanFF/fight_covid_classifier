@@ -1,4 +1,5 @@
 import json
+import re
 import annotator_pkg.ann_helpers
 from annotator_pkg.normalization import normalizeTweet
 
@@ -59,7 +60,16 @@ def buildAnnString (source, allowedNodes):
 
 	return (annString, annStringToDisplay)
 		
-		
+
+def regexMatch (source, regex):
+
+	regexMatch = re.search(regex, source, re.IGNORECASE)
+	if regexMatch:
+		return (regexMatch.start(), regexMatch.end())
+	
+	return None
+
+
 def annotator (source, nodeFilePath):
 
 	source = normalizeTweet(source)
@@ -71,8 +81,7 @@ def annotator (source, nodeFilePath):
 	matchingNodes = []
 
 	for node in nodes:
-		regex = annotator_pkg.ann_helpers.buildRegex(node)
-		match = annotator_pkg.ann_helpers.regexMatch(source, regex)
+		match = regexMatch(source, node['form'])
 		if match:
 			node['match'] = {}
 			node['match']['start'] = match[0]
