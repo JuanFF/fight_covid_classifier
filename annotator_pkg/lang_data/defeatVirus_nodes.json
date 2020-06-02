@@ -35,11 +35,6 @@
         "frame": "defeat"
     },
     {
-        "form": "investigación",
-        "role": "weapon",
-        "frame": "defeat"
-    },
-    {
         "form": "posible respuesta",
         "role": "success",
         "frame": "defeat"
@@ -305,12 +300,12 @@
         "frame": "defeat"
     },
     {
-        "form": "resultado",
+        "form": "dado resultado",
         "role": "success",
         "frame": "defeat"
     },
     {
-        "form": "resultados",
+        "form": "dado resultados",
         "role": "success",
         "frame": "defeat"
     },
@@ -1100,11 +1095,6 @@
         "frame": "defeat"
     },
     {
-        "form": "hospital",
-        "role": "soldier",
-        "frame": "defeat"
-    },
-    {
         "form": "clínica",
         "role": "soldier",
         "frame": "defeat"
@@ -1633,5 +1623,315 @@
         "frame": "defeat",
         "role": "type_of_weapon",
         "form": "\\beHealth"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "trasfusiones de plasma"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "transfusión de plama"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "adenovirus"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "fisioterapia"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "fisioterapia respiratoria"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "isciii"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "grupo isciii de análisis científico"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "incertidumbre"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "tormenta de proteínas"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "tormenta de citoquinas"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "el éxito"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "un éxito"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "california"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "la oportunidad de"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "arn viral"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "arn del virus"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "ventilación mecánica"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "ventilacion mecánica"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "grupo de .+universidad de \\S+"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "plasma hiperinmune"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "repunte"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "repuntes"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "repunta"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "repuntar"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "car-t"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "mala noticia"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "muy mala noticia"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "pésima noticia"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "malas noticias"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "coronavirus covid-19"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "cepa del virus"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "cepa del covid-19"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "cepa del coronavirus"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "biontech"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "prazosina"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "empresa de investigación"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "granito de arena"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "grano de arena"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "buenísima iniciativa"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "genial iniciativa"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "gran iniciativa"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "récord de contagios"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "terrible"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "mortal"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "anticoagulante"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "sangre de llama"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "sangre de las llamas"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "sangre de llamas"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "milagroso"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "preocupación"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "avance del coronavirus"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "muy duro"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "erradicación"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "daño"
+    },
+    {
+        "frame": "defeat",
+        "role": "victim",
+        "form": "cadáveres"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "nuevos contagios"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "estabilización de la pandemia"
+    },
+    {
+        "frame": "defeat",
+        "role": "survivor",
+        "form": "personas recuperadas"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "pandemia del \\S+"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "entusiasmo"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "instituto carlos iii"
+    },
+    {
+        "frame": "defeat",
+        "role": "victim",
+        "form": "víctima"
     }
 ]
