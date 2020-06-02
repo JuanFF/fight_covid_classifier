@@ -4,8 +4,6 @@ import re
 import json
 from colorama import Back, Fore, init
 init()
-from simple_term_menu import TerminalMenu
-
 
 def colorString (string, color):
 	
@@ -25,30 +23,24 @@ def colorAnnString(annStringToDisplay):
 	return re.sub('(\[)(.+?)(\]_\S+)', Fore.MAGENTA + r'\1' + Fore.RESET + r'\2' + Fore.MAGENTA + r'\3' + Fore.RESET, annStringToDisplay)
 
 
-def dropdown (key, annSchemeFilePath):
-	
+def queryForNode (nodeFilePath, annSchemeFilePath):
+
 	with open(annSchemeFilePath, 'r', encoding = 'utf-8') as annSchemeFile:
 		annScheme = json.load(annSchemeFile)
 
-	selection = TerminalMenu([Fore.BLUE + i + Fore.RESET for i in annScheme[key]]).show()
+	inputFrame = input(colorString('frame > ', 'blue'))
+	while inputFrame not in annScheme['frame']:
+		print(colorString('! ' + 'Not in annotation schemme', 'red'))
+		inputFrame = input(colorString('frame > ', 'blue'))
+	print(colorString('+ ' + inputFrame, 'green'))
 
-	if annScheme[key][selection] == '<new>':
-		newItem = input(colorString(key + ' > ', 'red'))
-		print(colorString('+ ' + newItem, 'green'))
-		annScheme[key].append(newItem)
-		with open(annSchemeFilePath, 'w', encoding = 'utf-8') as annSchemeFile:
-			json.dump(annScheme, annSchemeFile, ensure_ascii=False)
-		return newItem
-	else:
-		print(colorString('+ ' + annScheme[key][selection], 'green'))
-		return annScheme[key][selection]
+	inputRole = input(colorString('role > ', 'blue'))
+	while inputRole not in annScheme['role']:
+		print(colorString('! ' + 'Not in annotation schemme', 'red'))
+		inputRole = input(colorString('role > ', 'blue'))
+	print(colorString('+ ' + inputRole, 'green'))
 
-
-def queryForNode (nodeFilePath, annSchemeFilePath):
-
-	inputFrame = dropdown('frame', annSchemeFilePath)
-	inputRole = dropdown('role', annSchemeFilePath)
-	inputForms = input(colorString('forms > ', 'red'))
+	inputForms = input(colorString('form > ', 'blue'))
 	inputForms = inputForms.split(',')
 	print(colorString('+ ' + str(inputForms), 'green'))
 
@@ -83,11 +75,18 @@ def queryAndAddTrain (annString, trainFilePath, annSchemeFilePath):
 	'''
 	FastText format:  __label__positive text
 	'''
-	
+
+	with open(annSchemeFilePath, 'r', encoding = 'utf-8') as annSchemeFile:
+		annScheme = json.load(annSchemeFile)
+
 	with open(trainFilePath, 'r', encoding = 'utf-8') as trainFile:
 		training = [line.rstrip() for line in trainFile.readlines()]
 	
-	inputLabel = dropdown('frame', annSchemeFilePath)
+	inputLabel = input(colorString('label > ', 'blue'))
+	while inputLabel not in annScheme['frame']:
+		print(colorString('! ' + 'Not in annotation schemme', 'red'))
+		inputLabel = input(colorString('label > ', 'blue'))
+
 
 	train = '__label__' + inputLabel + ' ' + annString
 
