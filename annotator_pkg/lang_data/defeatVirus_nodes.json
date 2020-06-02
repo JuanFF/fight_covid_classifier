@@ -1588,5 +1588,50 @@
         "frame": "defeat",
         "role": "damage",
         "form": "fallecimientos"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "prototipos de vacuna"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "inflamación"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "inflamación pulmonar"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "inflamación pulmonar bilateral"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "inflamación pulmonar bilateral difusa"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "casos nuevos"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "tecnología sanitaria"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "tecnologías sanitarias"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "\\beHealth"
     }
 ]
