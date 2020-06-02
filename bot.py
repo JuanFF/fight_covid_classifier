@@ -6,16 +6,9 @@ import time
 import re
 
 
-def writeFile (status):
-	toPrint = ''
-	if status.user.verified is True:
-		toPrint += status.user.screen_name + '\t' + 'verified' + '\t'
-	else:
-		toPrint += status.user.description + '\t' + 'not verified' + '\t'
-	toPrint += status.text
-	print(status.text)
-	with open('analysis.tsv', 'a', encoding = 'utf-8') as outFile:
-		outFile.write(toPrint + '\n')
+def writeToFile (string):
+	with open('tweets analysis.tsv', 'a', encoding = 'utf-8') as outFile:
+		outFile.write(string + '\n')
 
 
 def checkTooSimilar (string, storedMessages):
@@ -33,19 +26,16 @@ def checkTooSimilar (string, storedMessages):
 
 def analyzeUser (status):
 
-	if status.user.verified is True:
-		return True
-	else:
-		description = status.user.description
-		if description:
-			if '\n' in description:
-				return False
-			descriptionAnnResult = annotator.annotator(description, 'annotator_pkg/lang_data/isSpecialist_nodes.json')
-			if descriptionAnnResult:
-				descriptionLabel = classifier.classify(description_model, descriptionAnnResult[0])
-				if descriptionLabel == 'isSpecialist':
-					return True
-		return False
+	description = status.user.description
+	if description:
+		if '\n' in description:
+			return False
+		descriptionAnnResult = annotator.annotator(description, 'annotator_pkg/lang_data/isSpecialist_nodes.json')
+		if descriptionAnnResult:
+			descriptionLabel = classifier.classify(description_model, descriptionAnnResult[0])
+			if descriptionLabel == 'isSpecialist':
+				return True
+	return False
 
 
 def findQueries (queries, string):
@@ -75,7 +65,10 @@ def analyzeTweet (status, queries, storedMessages):
 			messageLabel = classifier.classify(message_model, messageAnnResult[0])
 			if messageLabel == 'defeat':
 				storedMessages.append(message)
+				writeToFile(status.user.description + '\t' + 'defeat' + '\t' + message)
 				return True
+			#else:
+				# writeToFile(status.user.description + '\t' + 'undefined' + '\t' + message)
 	return False
 
 	
@@ -87,12 +80,13 @@ class CustomStreamListener(tweepy.StreamListener):
 	def on_status(self, status): 
 		if status.lang == 'es':
 			analysis = analyzeTweet(status, queries, storedMessages)
+			api.update_status(status)
 			if analysis is True:
 				if len(storedMessages) > 100:
 					storedMessages.clear()
 				try:
-					writeFile(status)
-					# api.retweet(id = status.id)
+					print(status.text)
+					#api.retweet(id = status.id)
 				except tweepy.TweepError as error:
 					print(error)
 
