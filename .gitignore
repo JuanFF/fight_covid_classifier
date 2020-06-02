@@ -5,5 +5,5 @@ __pycache__/
 /ann_desktop/input/corpus
 /ann_desktop/input/*.txt
 /Tweepy/
-analysis.tsv
+*analysis.tsv
 twitter_keys.py
