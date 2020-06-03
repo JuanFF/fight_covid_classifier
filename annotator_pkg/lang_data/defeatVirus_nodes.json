@@ -1933,5 +1933,125 @@
         "frame": "defeat",
         "role": "victim",
         "form": "víctima"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "fisiotecnología"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "favorablemente"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "secuela"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "secuelas"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "hipoxia"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "hipoxia muda"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\S+ no desead.s"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "rebrotes"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "patología"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "patologías"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "rebrote"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "riesgos? de contag\\S+"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "coagulopatía"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "inmunidad cruzada"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "proyecto de investigación"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "proyectos de investigación"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "coronavirus sars.cov.2"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "letalidad"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "italia"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "holanda"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "brasil"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "corea del sur"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "japón"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "ibuprofeno"
     }
 ]
