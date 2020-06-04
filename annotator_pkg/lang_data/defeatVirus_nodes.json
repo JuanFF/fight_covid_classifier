@@ -2053,5 +2053,10 @@
         "frame": "defeat",
         "role": "type_of_weapon",
         "form": "ibuprofeno"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "ineficaz"
     }
 ]
