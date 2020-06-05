@@ -2058,5 +2058,70 @@
         "frame": "defeat",
         "role": "damage",
         "form": "ineficaz"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "luz ultravioleta"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "rayos ultravioleta"
+    },
+    {
+        "frame": "defeat",
+        "role": "soldier",
+        "form": "la firma \\S+"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "lesiones"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "daños"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "bacterias sintéticas"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "oportunidad de oro"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "catástrofe"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "devastador"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "devastadora"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "devastadores"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "desvastadoras"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "tormenta perfecta"
     }
 ]
