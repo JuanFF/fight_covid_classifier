@@ -24,12 +24,13 @@ while True:
 		tweetId = tweet.split('\t', 2)[0]
 		if tweetId not in postedIds:
 			message = tweet.split('\t', 2)[2]
-			screenName = tweet.split('\t', 2)[1]
-			newStatus = 'https://twitter.com/' + screenName + '/status/' + tweetId
-			api.update_status(newStatus)
-			with open('posted_ids.txt', 'a', encoding = 'utf-8') as postedIdsFile:
-				postedIdsFile.write(tweetId + '\n')
-			print('\n[' + str(len(queue) - count) + ' left] ' + message)
-			break
+			try:
+				api.retweet(int(tweetId))
+				with open('posted_ids.txt', 'a', encoding = 'utf-8') as postedIdsFile:
+					postedIdsFile.write(tweetId + '\n')
+				print('\n[' + str(len(queue) - count) + ' left] ' + message)
+				break
+			except:
+				continue
 	
 	time.sleep(900)

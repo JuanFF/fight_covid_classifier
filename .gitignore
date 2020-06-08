@@ -9,3 +9,5 @@ __pycache__/
 twitter_keys.py
 Icon
 enfermero.png
+/bot/*.txt
+/bot/log.tsv
