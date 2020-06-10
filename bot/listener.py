@@ -42,7 +42,7 @@ def checkTooSimilar (inputString, queueFilePath):
 	inputString = cleanseString(inputString)
 
 	with open(queueFilePath, 'r', encoding = 'utf-8') as queueFile:
-		queue = [line.split('\t', 1)[1].rstrip().lower() for line in queueFile.readlines()]
+		queue = [line.split('\t', 2)[2].rstrip().lower() for line in queueFile.readlines()]
 
 	from difflib import SequenceMatcher
 	for message in queue:
@@ -120,6 +120,7 @@ def analyzeTweet (status, queries, queueFilePath):
 
 			# classifier's label must be 'defeat'
 			if label == 'defeat':
+				writeLogFile(label, status)
 				return True
 
 	return False
