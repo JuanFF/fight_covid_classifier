@@ -2123,5 +2123,30 @@
         "frame": "defeat",
         "role": "damage",
         "form": "tormenta perfecta"
+    },
+    {
+        "frame": "defeat",
+        "role": "enemy",
+        "form": "covid 19"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\d+ positivos"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "fatales"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\d+ nuevos casos"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\d+ casos nuevos"
     }
 ]
