@@ -535,11 +535,6 @@
         "frame": "isSpecialist"
     },
     {
-        "form": "docente",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
         "form": "profesional sanitario",
         "role": "specialist",
         "frame": "isSpecialist"
