@@ -1,0 +1,325 @@
+Test_Case	Expected	FastText_output	Result
+RT @AlbertoRavell: Latinoamérica carece de capacidad de recuperación rápida tras la pandemia del coronavirus https://t.co/QSt7cSbSY0	undefined	defeat	Fail
+RT @lopezdoriga: El virus que causa el COVID-19 podría tener un punto débil en su interior: una enzima indispensable para su supervivencia…	defeat	defeat	Pass
+RT @C_CaballeroR: La búsqueda de tratamientos científicamente comprobados para el Covid19 avanza a una velocidad que me llena de esperanza.…	defeat	defeat	Pass
+RT @DiazCanelB: La ciencia cubana, puntal indiscutible en la etapa de recuperación post COVID-19 #CubaSalvaVidas https://t.co/w24eYK5PB4 ví…	defeat	defeat	Pass
+RT @Reforma: El Tocilizumab, medicamento que trata alteraciones en sistema inmunológico, ha dado buenos resultados en pacientes con Covid,…	defeat	defeat	Pass
+RT @ExpansionMx: #OrgulloMexicano Él contribuye al desarrollo de una cura para el #COVID19 https://t.co/XjdbJjY4KO	defeat	defeat	Pass
+Adicionalmente, AstraZeneca trabaja en la búsqueda de nuevos anticuerpos neutralizantes contra el coronavirus, así… https://t.co/gA5t2rojz4	defeat	defeat	Pass
+Así fue la milagrosa recuperación de una niña de 8 años con covid-19 - El Tiempo https://t.co/uQE2Wncra2	defeat	defeat	Pass
+@BluRadioCo Qué amargada que es Silvia Patiño que quiere que la gente permanezca encerrada hasta que salga la vacuna contra el coronavirus.	undefined	defeat	Fail
+La científica argentina Laura Bover sobre por qué alistar la terapia con plasma de convalecientes para #Covid_19: "… https://t.co/jKYoD2g9rf	defeat	defeat	Pass
+RT @MLoewy: La científica argentina Laura Bover sobre por qué alistar la terapia con plasma de convalecientes para #Covid_19: "Como ocurre…	defeat	defeat	Pass
+La inmunidad contra el #Coronavirus puede durar entre 6 y 12 meses https://t.co/ZtxrIsZqlF	defeat	defeat	Pass
+RT @DiazCanelB: Gobierno cubano informa sobre medidas para la recuperación tras la epidemia de la COVID-19. Demostramos que pudimos. #Fuerz…	defeat	defeat	Pass
+RT @adnradiochile: Rusia comenzó distribución de primer fármaco contra el coronavirus Covid-19 https://t.co/nn6ZkU2HVO https://t.co/F33TXjC…	defeat	defeat	Pass
+Incógnitas y vacuna contra el Covid-19 https://t.co/2MQy4GL92J a través de @CR_indipolitico	undefined	defeat	Fail
+RT @CNNEE: Vacuna contra la poliomielitis podría proporcionar protección temporal contra el covid-19 https://t.co/2Xdvlhg9Vq	defeat	defeat	Pass
+RT @jhernandezbox72: #COVID_19. La pérdida de masa muscular en pacientes ingresados con COVID-19 en UCI tiene un impacto en su recuperación…	undefined	defeat	Fail
+RT @InfomedCuba: Los resultados preliminares de la #vacuna china indican que es segura y genera anticuerpos contra el coronavirus ➡️ https:…	defeat	defeat	Pass
+RT @A3Noticias: ¡Gran avance! La vacuna que prepara Moderna protege del coronavirus y no aumenta el riesgo de una enfermedad más grave http…	defeat	defeat	Pass
+La ciencia cubana, puntal indiscutible en la etapa de recuperación post COVID-19 https://t.co/HocUeG16k1… https://t.co/hj1IIzmbpg	defeat	defeat	Pass
+RT @acentodiario: COVID-19: Antiparasitario ivermectina sigue ganando fama curativa https://t.co/GgPmkmxEz5	defeat	defeat	Pass
+Para el tratamiento de personas que se infectan con COVID-19,pueden ser útiles dosis más altas de vitamina D3. Se d… https://t.co/lFretOSrpZ	defeat	defeat	Pass
+RT @MADiazRey: Vacuna de Sanofi Pasteur contra Covid-19 empezará ensayos en segundo semestre de 2020 https://t.co/FyefhQJmAP vía @Excelsior	defeat	defeat	Pass
+La vacuna contra el #COVID19 está cada vez más cerca. La industria no se detiene porque está #ConstruyendoEsperanza	defeat	defeat	Pass
+Científicos de la UACh descubren anticuerpo contra el coronavirus de mejor adherencia: Fue extraído de una alpaca… https://t.co/12BhpTR50E	defeat	defeat	Pass
+RT @DCNhoy: Universidad de Pensilvania entrena a perros para detectar el Covid-19 https://t.co/FGcffyoX4t '	defeat	defeat	Pass
+El tratamiento de pacientes con #coronavirus mediante el #PlasmaHiperinmune fue validado en el país bajo rigurosas… https://t.co/sPHFp3GBfw	defeat	defeat	Pass
+Una vacuna contra la poliomielitis podría  proteger contra el coronavirus @RotaryES @Rotary https://t.co/eNErxNKWFs vía @cnnee	defeat	defeat	Pass
+RT @ElPortal24: Avifavir, el impronunciable fármaco que en Rusia juran que puede curar el Covid-19 - https://t.co/N15f77DUQR https://t.co/R…	defeat	defeat	Pass
+RT @maduradascom: ¡ALENTADOR! Así recibieron a un venezolano oriundo de Lechería que superó el covid-19 tras 31 días de coma inducido en Es…	defeat	defeat	Pass
+RT @CNNChile: Rusia comienza la entrega del primer medicamento exclusivo para el coronavirus https://t.co/UiP3D5yhtD https://t.co/Sw39GLfvOO	defeat	defeat	Pass
+Un breve régimen terapéutico basado en hidroxicloroquina más azitromicina para el tratamiento de COVID-19 en pacien… https://t.co/2Wz8S6cNJ4	defeat	defeat	Pass
+RT @Alejand81847438: La Naturaleza nos ha entregado un regalo, aislamos el mejor anticuerpo recombinante del mundo contra Covid19. Señores…	defeat	defeat	Pass
+Brillante desarrollo de aplicación informática a medida #AppCoronavirusUy. Trabajando unidos en equipo más de 150 c… https://t.co/8cxrVCFt2R	defeat	defeat	Pass
+RT @CNNEE: 7 buenas noticias en la lucha contra el coronavirus https://t.co/yravDOYXbD	defeat	defeat	Pass
+RT @magnateUSA: Me he enterado de que hay un tratamiento contra el coronavirus con plasma y me he comido ya media televisión.	defeat	defeat	Pass
+Río Negro recibirá más de 4 millones de pesos para financiar proyectos científicos tecnológicos ante el COVID-19. L… https://t.co/wNMxMMVJJn	defeat	defeat	Pass
+Tratamiento de pacientes enfermos con #Coronavirus con Plasma de pacientes recuperados. Excelente gráfica y explica… https://t.co/wIFWrRgxQD	defeat	defeat	Pass
+Los casos de Covid 19 estan disminuyendo mucho en los paises donde se desarrollan las vacunas China,USA,Reino Unido… https://t.co/hgvOsY9OHp	defeat	defeat	Pass
+RT @ElFinanciero_Mx: Expertos se preparan para someter a prueba en julio a una primera vacuna experimental contra el COVID-19 para determin…	defeat	defeat	Pass
+Mantener el uso de mascarillas será más efectivo que nuevos confinamientos para prevenir una segunda ola de Covid… https://t.co/Buz6FFySTS	defeat	defeat	Pass
+RT @CNNEE: Buenas noticias en la lucha contra el coronavirus: posibles tratamientos, vacunas y hallazgos https://t.co/djLBlhnJbf	defeat	defeat	Pass
+Otro día más con cero caso de Coronavirus en Uruguay. Buena noticia. Hay que continuar siendo responsables. Para al… https://t.co/Hi7XergtIo	defeat	defeat	Pass
+RT @AAB_Cuba: Excelente presentación de la rectora de la @UnissJMarti, @rectorUniss, de la estrategia de recuperación POST-COVID-19. Trabaj…	defeat	defeat	Pass
+Excelente iniciativa de investigación #COVID2019chile 👏👏👏	defeat	defeat	Pass
+RT @ReutersLatam: Vacuna para COVID-19 de Moderna supera barrera clave en estudio con ratones https://t.co/UjDrLkJezQ https://t.co/4Fn5Ip5Z…	defeat	defeat	Pass
+Primer fármaco aprobado contra Covid-19 llega a clínicas de Rusia https://t.co/VqbNH7Pxvl a través de @laverdadweb	defeat	defeat	Pass
+Los recursos son limitados: profesionales sanitarios, medicinas, camas o respiradores. Si atendemos covid dejamos d… https://t.co/p0wve9xGxh	undefined	defeat	Fail
+RT @CMDTEDesurPort1: #12Jun Primer fármaco ruso contra Covid-19 aprobado por autoridades sanitarias llega a clínicas del país. #GNB FANByGN…	defeat	defeat	Pass
+Ninguna mejora estadísticamente significativa con plasma convaleciente en pacientes graves con COVID-19. Ensayo clí… https://t.co/uDZibgn5FQ	undefined	defeat	Fail
+ESTUDIAN PROMETEDORA TERAPIA PARA TRATAR EL COVID-19. El plasma convaleciente es una sustancia que está en la sangr… https://t.co/O1t9jp3Ylo	defeat	defeat	Pass
+RT @LemaCasimira: #Covid19Bolivia La cantante Tarijeña #EnriquetaUlloa busca plasma para su hijo  https://t.co/pVvTiFsroq	undefined	defeat	Fail
+RT @teleSURtv: Fondo de Inversión Directa de #Rusia🇷🇺 informa que los primeros lotes del medicamento “Avifavir” contra la Covid-19, se encu…	undefined	defeat	Fail
+RT @CNNEE: Fauci cree que habrá un tratamiento de coronavirus antes que una vacuna https://t.co/fMrajIsVnX https://t.co/1Xb5lCkV9m	defeat	defeat	Pass
+✔️Además, se informó que un paciente que estaba en tratamiento por coronavirus está recuperado y recibió el alta po… https://t.co/xfAr2yby5n	defeat	defeat	Pass
+RT @JoviNomas: Acabo de enterarme que Piñera les encomendó liderar una estrategia nacional para una vacuna COVID-19 a una manga de ingenier…	defeat	defeat	Pass
+Hoy fue mi primera vez en entrar al quirófano como R1 de oftalmo 👁 gracias por eso covid-19 jjajajaja https://t.co/oaBSqSBhP7	undefined	defeat	Fail
+RT @CNNEE: Se trata del primer ensayo clínico de un coctel de anticuerpos contra el coronavirus en Estados Unidos. Si tiene éxito, Regenero…	defeat	undefined	Fail
+RT @WenaChile: Rusia entregará gratuitamente el primer medicamento exclusivo para tratar el COVID-19 https://t.co/yKpPPHBOTX	defeat	defeat	Pass
+RT @Alan_Sahir: Guanajuato destinará 1 mil mdp para la adquirir la vacuna contra el COVID-19 https://t.co/eUKdizAIDQ	defeat	defeat	Pass
+Científicos chilenos hallan un "fuerte" anticuerpo contra el COVID-19 en las alpacas https://t.co/XtAfexCn3e a través de @EFEnoticias	defeat	defeat	Pass
+RT @SixH6: Continuamos con el desarrollo de UnCovid! Seguimos trabajando para lograr la validación de un sistema de detección de bajo costo…	defeat	defeat	Pass
+RT @modestomontoya: Tres grandes estudios disminuyen las esperanzas de que la hidroxicloroquina pueda tratar o prevenir COVID-19 https://t.…	undefined	defeat	Fail
+RT @aedv_es: #Hidroxicloroquina, un fármaco de ida y vuelta frente al #coronavirus #Covid_19 https://t.co/96dKmEOo2V	undefined	defeat	Fail
+RT @Yane00129124: La Universidad de Ciencias Pedagógicas Enrique José Varona, expuso la estrategia para la recuperación post-COVID, en pres…	defeat	defeat	Pass
+@hbaquero97 Cuando saquen la vacuna para Covid	undefined	defeat	Fail
+Entre los proyectos que se están financiando está el desarrollo de una vacuna contra el Covid 19, dijo… https://t.co/idwKx2CWLR	defeat	defeat	Pass
+RT @yanilsnhm6: Buenas noches amigos necesitamos donantes B+ que se hayan recuperado de COVID-19 para ayudar al Dr. Sergio Coto Urgente! Fa…	undefined	defeat	Fail
+Ribera Salud desarrolla un modelo que predice qué pacientes Covid-19 ingresados pueden necesitar UCI vía… https://t.co/WOppmmUmqo	defeat	undefined	Fail
+Excelente aportación a la mejora y humanización de los pacientes en UCI @SERMEF_es #COVID19 #SEMICYUC #FFPaciente	defeat	defeat	Pass
+Llega a clínicas de Rusia el primer medicamento aprobado contra Covid-19 en el mundo https://t.co/ghXSxaeK61	defeat	defeat	Pass
+Covid: la UE apuesta por la compra conjunta de vacunas https://t.co/rFsuHK04kr	defeat	defeat	Pass
+RT @elEconomistaes: Las cinco buenas noticias de este sábado para vencer al coronavirus, por @antoniolorenzo  https://t.co/RFr9FvQBbm	defeat	defeat	Pass
+La herramienta CRISPR también puede servir para destruir el genoma del coronavirus SARS-CoV-2 @CSIC @LluisMontoliu… https://t.co/jjnbl13fij	defeat	defeat	Pass
+RT @FCanisMajoris: Investigación ‘ripense’ contra el coronavirus: estos son los dos proyectos que lidera el doctor Raúl Alelú https://t.co/…	defeat	defeat	Pass
+RT @DCNhoy: Según dos estudios, la hidroxicloroquina no es eficaz contra el coronavirus https://t.co/lyMa9r4dSI "	undefined	defeat	Fail
+RT @Milenio: ¡Buenas noticias! Vacuna contra covid-19 da resultados positivos en ratones https://t.co/W19w4eGol5 https://t.co/b22FzIyyTv	defeat	defeat	Pass
+RT @ConElMazoDando: Primer medicamento ruso contra el Covid-19 llega a las clínicas de Moscú https://t.co/yqM0sa2joz  #ConBolívarYChávezVen…	defeat	defeat	Pass
+RT @doctormacias: Aún no tenemos una vacuna para Covid-19 y ya hay una muy difundida teoría de conspiración que nos dice que será una excus…	undefined	defeat	Fail
+RT @rdavidgoncalves: Vacuna Coronavirus China una guillotina	undefined	defeat	Fail
+RT @portalmvd: Rusia producirá en setiembre una vacuna contra la COVID-19 https://t.co/24ezlQxCDE	defeat	defeat	Pass
+RT @aedv_es: #Hidroxicloroquina, un fármaco de ida y vuelta frente al #coronavirus #Covid_19 https://t.co/96dKmEOo2V	undefined	defeat	Fail
+RT @doctormacias: Aún no tenemos una vacuna para Covid-19 y ya hay una muy difundida teoría de conspiración que nos dice que será una excus…	undefined	defeat	Fail
+“Estudian Prometedora terapia para tratar el Covid-19 “  Bravooo @JuanMAnayaC @CREAautoinmune lo que sí debe ser un… https://t.co/CFAOKz2U7u	defeat	defeat	Pass
+Las 10 buenas noticias del coronavirus de hoy 13 de junio via: @65ymuchomas https://t.co/RpccMJlguP	defeat	defeat	Pass
+RT @clarincom: Coronavirus en Bolivia: pacientes que se curaron donan plasma para salvar otras vidas https://t.co/Q295bIZr2A	defeat	defeat	Pass
+RT @revistavistazo: Científicos chilenos hallaron el "anticuerpo de alpaca más fuerte del mundo" contra la COVID-19, con el que podría crea…	defeat	defeat	Pass
+Tratamiento con Plasma para Pacientes con Enfermedad Crítica por Coronavirus: Reporte de Casos desde China… https://t.co/k9Kb8BdV7K	defeat	defeat	Pass
+Hace 35 años un importante Tratado de Medicina Interna, se refería al coronavirus. Con una bibliografía muy reducid… https://t.co/AYjUxXW67o	undefined	defeat	Fail
+RT @cperezd: Estudian prometedora terapia para tratar el Covid-19 https://t.co/jZYfHQGdpC vía @France24_es. Plasma Convaleciente en Colombi…	defeat	defeat	Pass
+🎬🎥 Hoy compartimos el testimonio vivencial de Luis Arriagada Quiroga, paciente recuperado de COVID-19 en Arica.… https://t.co/CXw7Y3iCn8	defeat	defeat	Pass
+Las farmacias son una excelente red para detectar posibles casos de Covid-19, reconociendo pacientes con síntomas m… https://t.co/k1THE2T0tD	defeat	defeat	Pass
+SSa replica al IMSS e implementará plasma convaleciente en tratamiento Covid-19 - https://t.co/Cf0yHrpTlS https://t.co/rknfvX6AUK	defeat	defeat	Pass
+RT @Esteban09090: El ensayo clínico multicéntrico español EPICOS para prevenir la COVID-19 en profesionales sanitarios se expande a Latinoa…	defeat	defeat	Pass
+RT @karolina_guay: Buenas noticias! 🇨🇦 anunció ayer apoyo a @pahowho en 23 paises en las Americas para responder al #covid19. Para 🇸🇻, a tr…	defeat	defeat	Pass
+RT @elmundoes: Italia, Países Bajos, Alemania y Francia firman un acuerdo para comprar a AstraZeneca la vacuna contra el coronavirus https:…	defeat	defeat	Pass
+RT @shegoelbigoteee: Que llegue el Doctor Paris al ministerio para que gestione la compra de vacunas contra el covid-19 pero luego las devu…	undefined	defeat	Fail
+La #voz podría ‘delatar’ a los contagiados de #COVID19 - Con #inteligenciaartificial se podrían detectar casos de c… https://t.co/ky8LK9hmU1	defeat	defeat	Pass
+RT @VinicioSenador: La ivermectina ha dado resultados asombrosos en la cura del COViD 19 , en su etapa inicial . Eso me lo han confirmado v…	defeat	defeat	Pass
+RT @mariamg2009: @abalosmeco Gracias ministro, las infrastructuras son vitales para garantizar la salida de la crisis por el Covid. Una s i…	undefined	undefined	Pass
+RT @mansares: @albur1948 @jfurcy @noelrdo @kemabota @ElLeon_Rojo @vcamava A una persona que le haya dado 3 veces el coronavirus, de salvars…	undefined	undefined	Pass
+@Njerez Que le dió tres veces la Covid-19 (coronavirus, dice él) ¿Pero es que este señor no tiene acceso ni a Googl… https://t.co/ygguUM0AAf	undefined	undefined	Pass
+#CartagenaContraElCoronavirus | Si una persona de tu familia fue diagnosticada con COVID-19, aprende cómo debes hac… https://t.co/iojTJIb6xV	undefined	undefined	Pass
+RT @MujerSomamfyc: La violencia hacia las mujeres aumenta en las emergencias. En la pandemia por #COVID19 las mujeres víctimas de #VG conti…	undefined	undefined	Pass
+RT @Mippcivzla: #NotiMippCI 📰🗞| Países ALBA-TCP controlan la pandemia del Coronavirus a través de la cooperación. Lea más ⏩ https://t.co/Qw…	undefined	undefined	Pass
+El dengue acecha México y Centroamérica en plena pandemia de coronavirus https://t.co/zrnLYwfM4S vía @el_pais	undefined	undefined	Pass
+RT @gabiestevezok: La revista Time destacó a Argentina entre las mejores respuestas contra el COVID-19 junto a países como Nueva Zelanda, A…	defeat	undefined	Fail
+RT @RosadeLejos6: Martín Insaurralde confirmó que dio positivo de coronavirus.	undefined	undefined	Pass
+RT @RedInvestChile: Nos reunimos en Mesa #COVIDー19chile #género, iniciativa presidencia @Senado_Chile @_adrianamunoz con distintas asociaci…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+Estudiantes en tiempos de coronavirus. Ejercicio de radioperiodismo en @udistrital @FCEdistrital Un proceso pars co… https://t.co/7B5tGEuNIO	undefined	undefined	Pass
+Podría existir una relación entre el virus SARS-CoV-2, la membrana y el LDL, que funcionaría como facilitador de la… https://t.co/2SUowbvCYc	undefined	undefined	Pass
+RT @El_Ciudadano: 'O mueren de hambre o de coronavirus': TV española analiza estallido social chileno y califica como simple 'tregua' encie…	undefined	undefined	Pass
+...de la enfermedad por coronavirus 2019 (COVID-19) analizando la tendencia y las medidas de mitigación en los tres… https://t.co/BXSaLqh4eb	undefined	undefined	Pass
+@isem20142015 @jorgeluisaliaga al décimo día un muchacho tuvo síntomas, hisopado, coronavirus, 23 más de los que co… https://t.co/oBSbgocgWK	undefined	undefined	Pass
+RT @mgoyenechea: Otro récords, 6.754 casos nuevos de #COVIDー19 luego de casi mes en cuarentena en la RM. Esto ilustra error de estrategia s…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+RT @cc_yoda: Esto es lo que hace un egresado de CMN La Raza, area Covid,  hoja Mac 4 y la habilidad otorgada por los maestros @DiegoEscarra…	undefined	undefined	Pass
+RT @jperezparra: El Reina Sofía da el alta al último de sus pacientes de covid-19 https://t.co/a7DhNuM7Ar	defeat	undefined	Fail
+RT @PabloHerrero71: El agradecimiento de las profesoras de ballet de tu hija, por la lucha contra la COVID-19, te llega al corazón y me hac…	defeat	undefined	Fail
+La Alianza Másnutridos alerta del riesgo de desnutrición en pacientes con Covid-19 https://t.co/vsBXsLEFBR https://t.co/FovWKICfX0	undefined	undefined	Pass
+RT @inakiigutierrez: Alberto viaja hoy a Catamarca, única provincia del país sin coronavirus. Formosa cuando la visitó tampoco tenía, dos s…	undefined	undefined	Pass
+Aportando desde @APTE_es nuestra experiencia en el apoyo a la creación de cadenas de valor frente al coronavirus y… https://t.co/RBjHkLS1K5	undefined	undefined	Pass
+El @MassGeneralNews analizó el 🧠 de 18 pacientes fallecidos a causa del #COVIDー19 causado por el #SARSCoV2: en todo… https://t.co/ZYAfhiAZo8	undefined	undefined	Pass
+RT @JoanCayla: Gran similitud entre los riesgos en los descensos en alta montaña y los descensos en la curva epidémica de la #COVIDー19 por…	undefined	undefined	Pass
+RT @HospitalVerdi: Con la realización del primer taller teórico-práctico 📝, sobre el “Manejo de Pacientes COVID 19 Hospitalizados”, 🏥 se re…	undefined	undefined	Pass
+RT @onucolombia: 📻 #VocesUnidasONU | La pandemia de COVID-19 ha desatado una crisis que podría empujar a miles de niñas y niños al trabajo…	undefined	undefined	Pass
+RT @anafvega: Es indignante que papás y mamás de niños con cáncer tengan que salir, justo ahora, y exponerse al contagio de coronavirus.…	undefined	undefined	Pass
+RT @mgoyenechea: Otro récords, 6.754 casos nuevos de #COVIDー19 luego de casi mes en cuarentena en la RM. Esto ilustra error de estrategia s…	undefined	undefined	Pass
+RT @bourjack: ¡El sálvese quien pueda! ¡Los quise salvar del Coronavirus pero con ustedes no se puede!, pareciera ser actitud del Gobernado…	undefined	undefined	Pass
+RT @NicoOlsze: Sorpresiva lista de países con las mejores respuestas globales contra el coronavirus: Taiwan, Singapur, Australia, Corea del…	defeat	undefined	Fail
+RT @leonalexm: Quien puede confirmar esta información? En esta gaceta dice que se extiende el estado de alarma por Covid-19 por 30 días más…	undefined	undefined	Pass
+Niños con Covid-19 en Departamentos de Urgencia Pediátrica en Italia https://t.co/oaAiaouUuD	undefined	undefined	Pass
+Hasta ahora no existen vacunas para los coronavirus.	undefined	undefined	Pass
+RT @ocram: la desinformación cunde no solo en los fans de Sacha Barrio y Miguel Bosé... sino que hasta el jefe del Comando Covid de Ayacuch…	undefined	undefined	Pass
+RT @GusElChacal: #URGENTE Argentina: Fuerte cantidad de infectados por #Coronavirus en Formosa, el virus estaría en el avión que utiliza el…	undefined	undefined	Pass
+RT @agusceru: Martín Insaurralde, intendente de Lomas de Zamora, tiene coronavirus	undefined	undefined	Pass
+RT @edparra5: Información relevante sobre el manejo de #residuos en #Mexico ante el #COVID19 @ecolanamx @DraCrisCortinas @SIPRAmx	undefined	undefined	Pass
+RT @sinsacoclaudio: 24 casos de Covid-19 en Formosa.... ¿Adivinen quién estuvo en esa provincia hace 10 días? https://t.co/BBUmlsaASC	undefined	undefined	Pass
+RT @ChauOperetaK: Martín Insaurralde, intendente ultra K de Lomas de Zamora tiene COVID. El mismo Insaurralde que fue denunciado por abando…	undefined	undefined	Pass
+RT @estmannmd: Neurología en tiempos de COVID https://t.co/WmPOqKo7eL	undefined	undefined	Pass
+#DelColegioMePreocupa ¿Qué decisiones se toman cuando un profesor está enfermo de COVID en un colegio público ? ¿Quién lo reemplaza?	undefined	undefined	Pass
+@alvaroSantos nos ha dejado este vídeo para animar a sus seguidores a participar en #MagiaContraCOVID19, gala que t… https://t.co/wEBT7FTF4n	undefined	undefined	Pass
+RT @qbeeert: Cuando van a activar la posibilidad de denunciar noticias falsas en contexto de Covid-19, @TwitterLatAm? https://t.co/QHZyrpKW…	undefined	undefined	Pass
+Justo me preguntaba qué pasaba con los residuos de los centros de atención al Covid #COVID19	undefined	undefined	Pass
+Oyo discharges 64 COVID-19 patients https://t.co/a9hU6cel8p #News	undefined	undefined	Pass
+RT @El_Ciudadano: 'O mueren de hambre o de coronavirus': TV española analiza estallido social chileno y califica como simple 'tregua' encie…	undefined	undefined	Pass
+RT @eldiarioes: Sanidad ha registrado 155 nuevos contagios de coronavirus en las últimas 24 horas. De ellos, casi la mitad, 74, han sido en…	undefined	undefined	Pass
+RT @DiariodeNavarra: Coronavirus: Navarra hará un estudio propio de seroprevalencia en otoño https://t.co/ekDGT0PmyR	undefined	undefined	Pass
+Covid-19: Riesgo de Contagio durante la Intubación Orotraqueal https://t.co/gBuobzlLeZ vía @CardiologiahoyC #COVID19argentina	undefined	undefined	Pass
+RT @IlindelatorreMD: Una mujer joven (20 años) cuyos pulmones fueron destruidos por el SARS-CoV-2 recibió trasplante doble de pulmón la sem…	undefined	undefined	Pass
+En la web institucional sobre el #coronavirus de Extremadura encontrarás información actualizada y recomendaciones.… https://t.co/z0EWtwAFPO	undefined	undefined	Pass
+RT @CardiologiaSVC: #CardioDato | Conozca sobre SARS-CoV-2: Protección facial. Por la Sociedad Interamericana de Cardiología #SIAC. Entéres…	undefined	undefined	Pass
+RT @acinnacional: También en línea: Sección V. Manejo del paciente con infección por SARS-CoV-2/COVID-19. Consenso colombiano de atención,…	undefined	undefined	Pass
+Al alza termómetros infrarrojos para filtrar sospechas de coronavirus https://t.co/7bhYG0FNTG	undefined	undefined	Pass
+RT @GRADEPeru: Martes 16: Segunda conferencia de la Serie de Webinars: #COVIDー19 y la respuesta de política en el Perú. Presenta: Roberto C…	undefined	undefined	Pass
+RT @isanidad: El 45,1% de internistas considera estar agotado mentalmente para combatir un eventual rebrote de Covid-19 @Sociedad_SEMI @san…	undefined	undefined	Pass
+RT @mariapaz_lopezc: 10 pacientes covid que estaban  en carpas instaladas x el ejército fueron trasladados al interior del hospital San Jos…	undefined	undefined	Pass
+Informe sobre certificación y sello COVID free o similar https://t.co/SMjMO8Aqce vía @Papeles de Enfermería. En poc… https://t.co/BOuf6zxxUw	undefined	undefined	Pass
+Definitivamente Covid-19 no es una pandemia y la OMS lo ha vendido como pandemia coludido con el imperio chino, jus… https://t.co/XzRCEyxzmY	undefined	undefined	Pass
+RT @SaludGuanajuato: Pon atención y ¡Cuídate del #coronavirus! @gobiernogto https://t.co/DKTCNHXqB7	undefined	undefined	Pass
+RT @FerIglesias: Y ya saben, si estalla el coronavirus en el Gran Buenos Aires la culpa es de los runners porteños https://t.co/4emtl2iqZx	undefined	undefined	Pass
+RT @delfinomachin: Paciente de COVID-19 en Estados Unidos recibe trasplante de pulmones https://t.co/sOGiwTtugH	undefined	undefined	Pass
+RT @numer344: - Oye, Pedro que las cifras que estamos dando de los fallecidos por coronavirus, no se las cree la gente. Que podemos hacer?…	undefined	undefined	Pass
+RT @mdaza_abogado: Congreso aprobó proyecto que prohibe la suspensión servicios básicos durante emergencia sanitaria por Covid 19. Gobierno…	undefined	undefined	Pass
+Hoy me enteré (a más de una semana de mi PCR positiva) que no figuro como caso COVID en Epivigila. Si el gobierno b… https://t.co/WCjiVeK1dx	undefined	undefined	Pass
+@MauVila gobernador urge fumigar, hay muchos moscos, si comienza a haber dengue, el tratamiento de Covid y dengue s… https://t.co/9CRJyBiDHN	undefined	undefined	Pass
+RT @virgallart: Sobrevivir al coronavirus era solo el principio https://t.co/4EU02G5jQ1	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+Totalmente de acuerdo, si ud es contacto estrecho de Covid asumase + y quédese en la casa esto no es chiste	undefined	undefined	Pass
+Hoy seguimos realizando educación sanitaria sobre las medidas preventivas del Covid-19 e información sobre el acces… https://t.co/qHbwl6inTZ	undefined	undefined	Pass
+RT @rne: Esta ha sido una de las imágenes de la lucha contra la pandemia del coronavirus en España. Los enfermeros de la UCI del @hospitald…	undefined	undefined	Pass
+RT @cc_yoda: Esto es lo que hace un egresado de CMN La Raza, area Covid,  hoja Mac 4 y la habilidad otorgada por los maestros @DiegoEscarra…	undefined	undefined	Pass
+RT @soniavaldez_: El país ha tenido una lucha incansable en contra del coronavirus es momento de apretar los motores y cuidarnos con más es…	undefined	undefined	Pass
+RT @ppmadrid: Pablo Iglesias ataca a la Comunidad de Madrid, donde un 32% de los fallecidos por COVID-19 lo han hecho en residencias de may…	undefined	undefined	Pass
+Y así es como se ven unos pulmones afectados por #COVIDー19	undefined	undefined	Pass
+@ncastilo Así como cuentan las muertes por COVID con fotos por WhatsApp, tampoco están utilizando el Registro Socia… https://t.co/FOYqj6Xd4v	undefined	undefined	Pass
+RT @AlbertoRodNews: VIDEO | Pollos salvajes se convierten en una plaga en Nueva Zelanda tras la cuarentena por el coronavirus. https://t.co…	undefined	undefined	Pass
+RT @SomosJesuitas: ¿Qué impacto tiene el Covid en nuestros apostolados? ¿Qué pasa con las Preferencias? ¿están avanzando? Estas son algunas…	undefined	undefined	Pass
+RT @osvaldobazan: ¿El coronavirus llegó a Puerto Madero?	undefined	undefined	Pass
+RT @romerodiario: Time incluye a Argentina en la lista de países con mejor respuesta a coronavirus https://t.co/MGDo3aNAwt	defeat	undefined	Fail
+RT @IrvingPineda: Y qué creen a los internos del Hospital General de México no les han pagado en medio de la epidemia de covid-19. Vergüenz…	undefined	undefined	Pass
+RT @Pablolinde: Si esto es realmente así, si se confirma que el principal medio de trasmisión del coronavirus es el aire, llevamos cuatro m…	undefined	undefined	Pass
+Loco, hoy murieron dos personas en mi pega por COVID-19. Estoy pal pico. Cabres, si pueden, quédense en la casa, no… https://t.co/dPiGCaS6MS	undefined	undefined	Pass
+RT @osvaldobazan: ¿El coronavirus llegó a Puerto Madero?	undefined	undefined	Pass
+RT @LGPlata: Para frenar la expansión del Covid-19 debemos hacer 3 cosas de manera rápida y masiva: 1) Seguir ampliando nuestra capacidad d…	undefined	undefined	Pass
+COVID-19 y trabajo infantil: Según la OIT y UNICEF, millones de niños podrían verse obligados a realizar trabajo in… https://t.co/xaw4HTlroS	undefined	undefined	Pass
+Expertos de la salud: Marchas en Europa pueden acelerar la segunda ola de coronavirus https://t.co/JrWHJL3vQJ a través de @teleiguana	undefined	undefined	Pass
+The New York Times dice que López Obrador reabre México en el peor momento del COVID-19, con el argumento de que “s… https://t.co/pHCBx33xvx	undefined	undefined	Pass
+RT @DrMencias: Sabemos que no hemos aplanado la curva #Covid a nivel mundial y se está desescalando muy rápido. Seguridad y control comunit…	undefined	undefined	Pass
+RT @ja_campillo: 6/ Sin embargo, la RNA polimerasa de los coronavirus cuenta con una chalán molecular llamada exorribonucleasa que, literal…	undefined	undefined	Pass
+RT @IlindelatorreMD: Una mujer joven (20 años) cuyos pulmones fueron destruidos por el SARS-CoV-2 recibió trasplante doble de pulmón la sem…	undefined	undefined	Pass
+RT @yamilapenao: ¿La Ley es + severa para los infractores en tiempos de la #COVID19 ? ¿El Código Penal prevé sanciones mayores cuando los h…	undefined	undefined	Pass
+Fallece hace unos días el presidente de Burundi de un ataque cardíaco. Según el diario belga tenía coronavirus. Rec… https://t.co/rXfClAcs9s	undefined	undefined	Pass
+RT @cmds_antof: Alcaldesa @karen_rojov encabeza la cuarta sesión del Consejo Comunal Asesor Covid, instancia en la que se están exponiendo…	undefined	undefined	Pass
+RT @CONANCASTRO2: la @SalaCnalSV de El Salvador invalidó las medidas contra el COVID-19 dispuestas por el Ejecutivo. Con ello, El Salvador…	undefined	undefined	Pass
+Presentación atípica de COVID-19 en lactantes pequeños  https://t.co/tGd5FMRyMQ	undefined	undefined	Pass
+RT @minsaurralde: Di positivo de coronavirus. Como sociedad, hoy atravesamos el momento más difícil porque nos acercamos al pico de contagi…	undefined	undefined	Pass
+RT @pviloutaoficial: Según la revista Time, Argentina está entre los países que mejor responden a la pandemia del coronavirus - Infobae htt…	defeat	undefined	Fail
+Mantén siempre el distanciamiento físico y evita contagios de #COVID_19, además de seguir todas las recomendaciones… https://t.co/JLUBJjAafY	undefined	undefined	Pass
+Covid en el mundo: Un nuevo positivo corta la racha de 18 días sin contagios locales en China. Twitter desarma oper… https://t.co/gQ7D1wXccO	undefined	undefined	Pass
+Llevo 11 días aislada por COVID+ y puedo dar fe de q al hacerte el test, lo que más te insiste el personal de salud… https://t.co/O8fCsAOZtI	undefined	undefined	Pass
+Gobierno subiría Fondo COVID pero no Ingreso Familiar de Emergencia https://t.co/vEB8laFmZk	undefined	undefined	Pass
+RT @IlindelatorreMD: Una mujer joven (20 años) cuyos pulmones fueron destruidos por el SARS-CoV-2 recibió trasplante doble de pulmón la sem…	undefined	undefined	Pass
+@GalataLudovisi @wsosaescudero Covid es la enfermedad, el virus es SARs-CoV-2	undefined	undefined	Pass
+RT @OscarContardo: Ayer una experta de la OMS daba por descontado que no habría vacuna para el Covid 19 en 2020. Hoy el ministro de ciencia…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+Otro comunista que está en el comando Covid-19 sólo por su filiación política, a pesar de ser responsable de miles… https://t.co/j5Jp1BANYk	undefined	undefined	Pass
+RT @Epitan_PL: #Ahora | "No tenemos mejoras salariales y equipo adecuado para enfrentar el Covid-19, estamos a punto de renunciar", denunci…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+RT @minsaurralde: Di positivo de coronavirus. Como sociedad, hoy atravesamos el momento más difícil porque nos acercamos al pico de contagi…	undefined	undefined	Pass
+RT @MartaEstelaVil3: Todo lo que ha pasado es Dioscidencia,  La pandemia,  los CAPOS jalados de USA, el Supuesto COVID-19 de Abinader,  Dio…	undefined	undefined	Pass
+RT @fedeaikawa: Insaurralde (covid positivo), hace DOS días estuvo con Arroyo, que hoy está en La Rioja junto a Alberto Fernández.	undefined	undefined	Pass
+RT @LANACION: Coronavirus: Martín Insaurralde dio positivo https://t.co/Z0rafhPl4W https://t.co/9wFCA4H2W6	undefined	undefined	Pass
+RT @larazon_es: La pandemia sume a #Argentina en una de sus peores crisis ➡ El COVID-19 irrumpió en medio de una crisis preexistente y a po…	undefined	undefined	Pass
+RT @O_Diosa78: Vamos en 15,347 muertes por coronavirus, seguimos en riesgo máximo y Lopez invita a salir a la gente sin miedo, en las elecc…	undefined	undefined	Pass
+RT @MDAnderson_ES: Un alto porcentaje de las personas que superan el #COVID-19 sufren problemas cardiovasculares posteriormente. Conoce las…	undefined	undefined	Pass
+RT @Telenoticias7: Dos funcionarias del hospital de Heredia dieron positivo por COVID-19 | https://t.co/WwUXihGI9U https://t.co/cChFUBHUk5	undefined	undefined	Pass
+@mrbord_ La neta si, antes del covid a mí me sorprendió mucho ver gente usando cubrebocas por la calle así bien fre… https://t.co/M1A8I5T8m6	undefined	undefined	Pass
+RT @infobae: 🔴 REITERAMOS |  Formosa registró 24 casos de coronavirus y dejó de ser una de las provincias sin contagios https://t.co/veItOZ…	undefined	undefined	Pass
+RT @Claudiashein: Hoy presentamos el Programa de Detección, Protección y Resguardo de casos Covid-19 y sus contactos. Con una nueva estrate…	undefined	undefined	Pass
+RT @DrLejarazu: Fase4 #Coronavirus Los movimientos de personas entre provincias no entrañan mayor riesgo si las personas restringen sus con…	undefined	undefined	Pass
+@tdearias De acuerdo Teresita, más que protegerla del SARS-CoV-2 hay que protegerla de ese ambiente tóxico e intoxicado	undefined	undefined	Pass
+RT @Glitter__rosa: ¿Van a querer un pulmón con covid o se los tiro al perro? https://t.co/NQ3j6TTyHi	undefined	undefined	Pass
+Un detalle poco advertido ante el paso terrible del covid-19 en Barranquilla. El aumento de la inseguridad. 44 homi… https://t.co/e6mSb2LtXe	undefined	undefined	Pass
+RT @pagina12: Argentina, entre los países con mejor manejo de la pandemia del coronavirus https://t.co/Ft26np3rAs	defeat	undefined	Fail
+@mclmat @mwassermannl @ELTIEMPO Seguramente no muchos sean Covid, porque las demas patologías no estan en cuarenten… https://t.co/uN0UUaozWD	undefined	undefined	Pass
+El coronavirus también vive antes de las 7pm. Y más cuando ya se olvidó el distanciamiento social 👋🏻	undefined	undefined	Pass
+RT @JoanCayla: Gran similitud entre los riesgos en los descensos en alta montaña y los descensos en la curva epidémica de la #COVIDー19 por…	undefined	undefined	Pass
+¿EL COVID-19 HA AFECTADO A TU VIDA SEXUAL? Animaros a contestar 😊⁦@scurologia⁩ ⁦@ASESAorg⁩ ⁦@InfoAeu⁩ ⁦… https://t.co/QXOjUNJWnw	undefined	undefined	Pass
+RT @fedeaikawa: Insaurralde (covid positivo), hace DOS días estuvo con Arroyo, que hoy está en La Rioja junto a Alberto Fernández.	undefined	undefined	Pass
+RT @GatoNegroTM: Me acaban de avisar que un amigo y maestro de otorrino del Hospital Juárez de México acaba de morir por covid. Deja huérfa…	undefined	undefined	Pass
+RT @FstseGto: #CuidardeMiparaCuidardeOtros FSTSE te comparte algunas recomendación de prevención ante el COVID-19. https://t.co/YIzbRPhBxa…	undefined	undefined	Pass
+En este país ya no llevamos la cuenta de los casos de Coronavirus o como es la vaina?	undefined	undefined	Pass
+RT @Rachidnader: @zonacero La inseguridad en Barranquilla es peor que la propagación del coronavirus. De este último sabemos que el uso de…	undefined	undefined	Pass
+Nace en Wuhan el hijo de Li Weinliang, el médico héroe que lanzó la alarma del coronavirus https://t.co/th7atNSl2p	undefined	undefined	Pass
+RT @fedemartinon: "Vacunas difíciles, incluyendo COVID-19". Jueves 18 Junio 2020 (19:00 CET / 17:00 UTC) con Prof. Dr. Stanley Plotkin (US)…	undefined	undefined	Pass
+RT @2303guille: Formosa no tenía coronavirus, hoy tienen 24 casos, casualidad? https://t.co/NchU0devfc	undefined	undefined	Pass
+RT @OPSOMSRD: ¿Has donado sangre durante la pandemia COVID-19❓  Gracias por salvar vidas y hacer del mundo    🌎🌎un lugar más saludable. ¡An…	defeat	undefined	Fail
+RT @SdeStendhal: Por muy cansados que estemos del coronavirus, no nos dejemos engañar, no todos los virus son como él. Algunos incluso salv…	undefined	undefined	Pass
+RT @somoslaplata: #UltimoMomento Un adolescente de 14 años murió en las últimas horas. Es la primer víctima fatal por coronavirus que se re…	undefined	undefined	Pass
+RT @la_patilla: Virólogo italiano contradice a la OMS:  Los  casos asintomáticos de coronavirus son letales https://t.co/vvBAOhA8Rz	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+@tvnnoticias  Panameño Denuncia al 133 si sabes q tu vecino COVID + no está cumpliendo la cuarenten!!!! Cuidémonos entre todos!!	undefined	undefined	Pass
+RT @gabrielboric: En Magallanes llevábamos varios días con 1 dígito de nuevos casos Covid. Incluso el martes de esta semana no se reportaro…	undefined	undefined	Pass
+RT @mdaza_abogado: Congreso aprobó proyecto que prohibe la suspensión servicios básicos durante emergencia sanitaria por Covid 19. Gobierno…	undefined	undefined	Pass
+OPINIÓN | COVID y el auténtico valor de la medicina, por Juan Antonio Ayllón, médico de familia https://t.co/bqhd0lNDip vía @eldiarioes	undefined	undefined	Pass
+RT @Matriuskaroja: Se llovió la carpa covid del hospital San José. En este momento viendo cómo trasladar a los pacientes. Que manera de imp…	undefined	undefined	Pass
+Vamos a dejar de normalizar pedir reacciones febriles y diagnosticando SALMONELOSIS dónde obviamente es COVID + por… https://t.co/Nb3ryFAz1O	undefined	undefined	Pass
+RT @IEcologiaUNAM: La COVID-19 ha tenido un impacto económico en todo el mundo y la Asociación Mexicana de Museos y Centros de Ciencia y Te…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+Time puso a la Argentina entre los países con mejor manejo de la pandemia del coronavirus | Junto a Alemania, Taiwa… https://t.co/K1DnZ1EXUC	defeat	undefined	Fail
+RT @mdballesteros: Nutrición Clínica en tiempos de COVID-19. Editorial en @endocDiabNutric #COVID19  ha supuesto un reto también en lo refe…	undefined	undefined	Pass
+Ojala mi covid sea del de enflaca 🤞🤞🤞	undefined	undefined	Pass
+RT @urgenciasemerge: ¿Cuántas muertes por covid-19 ha habido desde que el Gobierno dejó de contarlas? https://t.co/5E6aG34yeo https://t.co/…	undefined	undefined	Pass
+Un placer desde @geteccu participar en un coloquio debate pacientes-médicos sobre COVID y EII junto a Julio Roldán… https://t.co/k6CMCA6Fvt	undefined	undefined	Pass
+Lo llamaron coronavirus por no llamarlo nfulu.	undefined	undefined	Pass
+RT @Mistermopilas: A los 'abuelitos' si no los mata el covid que los mate la hipoteca inversa.	undefined	undefined	Pass
+Los beneficios de la lactancia materna superan cualquier riesgo potencial de transmisión de la COVID-19	undefined	undefined	Pass
+Más de 100 mil personas se recuperan del #COVIDー19. El virus no es invencible. No me cansaré de recomendar el… https://t.co/fN4B231WHQ	defeat	undefined	Fail
+Una entrega normal en terapia área covid 😊 https://t.co/l58VvcE39s	undefined	undefined	Pass
+@AlcaldiaCucuta @ingjairoyanez  El único laboratorio certificado por INS para realizar pruebas COVID 19 es una IPS… https://t.co/WrDIbfaEU5	undefined	undefined	Pass
+RT @MinSaludCol: #Noticia🧑‍🔬🦠Colombia llegó a 64 laboratorios para coronavirus en 90 días. Los detalles: https://t.co/DbSC4NMHQv https://t.…	undefined	undefined	Pass
+RT @SectorSalud: En Bogotá hay 14.537 casos de COVID-19, con corte a este jueves 11 de junio. Conoce más cifras sobre el coronavirus en la…	undefined	undefined	Pass
+@deportes_rpc @COlimpicoPanama @jpanama2022 Me parece que estamos en una crisis economica por el Covid que ya está… https://t.co/wjjyTV2pTO	undefined	undefined	Pass
+Abren en la Miguel Hidalgo centro de atención para identificar a pacientes Covid #salud #COVID19  https://t.co/VWMFkxGQig	undefined	undefined	Pass
+Más de 100 mil personas se recuperan del #COVIDー19. El virus no es invencible. No me cansaré de recomendar el… https://t.co/fRfW0EzEYM	defeat	undefined	Fail
+#Coronavirus. Casos en México por estado, mapa actualizado https://t.co/1agOOoA13y vía @Milenio https://t.co/AMdKjLg81e	undefined	undefined	Pass
+RT @Naty_Krdnas: Monkeberg anduvo haciendo el teatro de repartir cajas, hoy da positivo a COVID, quizá a cuántas familias contagió. Pero ar…	undefined	undefined	Pass
+RT @inakiigutierrez: Alberto viaja hoy a Catamarca, única provincia del país sin coronavirus. Formosa cuando la visitó tampoco tenía, dos s…	undefined	undefined	Pass
+RT @alt159: "...y de yapa te llevas tu COVID" es la frase más desgraciada que he escuchado en mi vida. ¿Cuál es la tuya?	undefined	undefined	Pass
+RT @hechoseconomia: Mientras acá desde el sector público se regodean sobre los muertos de España por Covid-19, allá están en la playa toman…	undefined	undefined	Pass
+RT @OITAmericas: Hoy se realizó la presentación del documento "Trabajadoras remuneradas del hogar en ALyC frente a la crisis de COVID-19" e…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+@monte_aserrado Hola Mont, buen día. Gracias por escribirnos. Sí, se realiza la prueba para COVID-19 en nuestra suc… https://t.co/mf6LmvYW7M	undefined	undefined	Pass
+RT @infobae: Alberto Fernández llegó a La Rioja y luego visitará Catamarca, una de las dos provincias sin casos de coronavirus https://t.co…	undefined	undefined	Pass
+RT @IlindelatorreMD: Una mujer joven (20 años) cuyos pulmones fueron destruidos por el SARS-CoV-2 recibió trasplante doble de pulmón la sem…	undefined	undefined	Pass
+RT @sagagist: #News COVID-19: Ganduje reopens viewing centres in Kano as LaLiga resumes https://t.co/IqxGk3FHzg	undefined	undefined	Pass
+El dengue acecha México y Centroamérica en plena pandemia de coronavirus https://t.co/qw0MzJYO3X vía @el_pais	undefined	undefined	Pass
+From extensive testing to early track and trace, Germany is a model (#covid19 106 deaths per million). One of Europ… https://t.co/AVrHutnZct	undefined	undefined	Pass
+Son las mismas personas versión no médica con ideas conspirativas que creen que el covid es mental jajaja🤭	undefined	undefined	Pass
+Otra posible explicación de porqué los hombres suelen ser más susceptibles a complicarse en relación a #COVIDー19, b… https://t.co/ipYPNuEQqM	undefined	undefined	Pass
+RT @tomebamba: Las cifras de Cuenca y Loja confirman que con el cambio a semáforo amarillo no se aplanaron las curvas de contagios de covid…	undefined	undefined	Pass
+RT @JesusGR3311: La adherencia en tiempos de COVID-19, es por mucho una acción preventiva. La no garantia en la entrega de los fármacos a l…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+Las personas que dan positivo tras pasar la Covid ya no contagian https://t.co/BWEgTbYgT0	undefined	undefined	Pass
+GALERÍA #128:  BOA (¿QUÉ ES? ¿SOY PARTE?)/ ZOÉ ROBLEDO: NEGOCIOS Y COVID... https://t.co/oqeD37UyAM a través de @YouTube	undefined	undefined	Pass
+Este es almuerzo que se reparte a personas con covid https://t.co/Jc6XY43nmX	undefined	undefined	Pass
+RT @e_teran_ec: #Ecuador hoy 16hs la Academia @CienciasEcuador invita al foro “Covid-19: Una visión científica de la epidemia causada por e…	undefined	undefined	Pass
+RT @FundacionFemeba: Fundación Femeba lanzó un programa de Becas Especiales de FEMEBA por la pandemia del COVID-19 para los cursos del Inst…	undefined	undefined	Pass
+RT @ceciliaheyder: Sr. Ministro Mañalich, así se encuentran los pacientes Covid-19 hoy: ¿Sigue Ud. desconociendo la realidad de la carpa de…	undefined	undefined	Pass
+RT @redaccionmedica: Coronavirus: España tiene 51.849 sanitarios contagiados, 136 más en 7 días https://t.co/sSOd2COftC	undefined	undefined	Pass
+El Comité Operativo COVID-19 de la Facultad (https://t.co/2yZPGfDiVq ), invita a partir de hoy, a responder el segu… https://t.co/ytdEooZDe1	undefined	undefined	Pass
+RT @achaginaz: Tal Cual:A pesar de q los casos d covid-19 no han disminuido, Maduro decidió q desde la próxima semana profundizará la flexi…	undefined	undefined	Pass
+RT @ja_campillo: A lo que mencionas, querida @irlandamaya sobre la nota de @JohnsHopkins y que el coronavirus muta más lentamente. Abro est…	undefined	undefined	Pass
+RT @JeffreyRivasRD: No es un invento ni capricho. El Covid-19 es un mal real y #TodosEstamosEnRiesgo https://t.co/fuoljKbr1G	undefined	undefined	Pass
+RT @n_roor: Are we really gonna support las barras que van a abrir ignorando que el covid anda por ahí? https://t.co/8wJdpIFwrN	undefined	undefined	Pass
+RT @arturomillan_: Las Comunidades Autónomas informan que en los últimos 15 días ha habido 700 muertes por coronavirus. El Gobierno sólo re…	undefined	undefined	Pass
+Como parte de las medidas de prevención del #Covid-19 se realizó fumigación en la División de Imagenología. Trabaja… https://t.co/J8pGeiNkiw	undefined	undefined	Pass
+RT @fedeaikawa: Insaurralde (covid positivo), hace DOS días estuvo con Arroyo, que hoy está en La Rioja junto a Alberto Fernández.	undefined	undefined	Pass
+RT @UnivisionPR: Las muertes probables por covid-19 corresponden a un hombre de 52 años de la región de Arecibo y un hombre de 75 años de l…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+RT @somoslaplata: #UltimoMomento Un adolescente de 14 años murió en las últimas horas. Es la primer víctima fatal por coronavirus que se re…	undefined	undefined	Pass
+Culpan al Covid, pero el peor virus está dentro de su club. Tremendo profesional el prof. Gregorio Perez, ese equip… https://t.co/dufwnP7ZnU	undefined	undefined	Pass
+RT @parejalascondes: @danieljadue @thecliniccl Que coincidente, todas las oposiciones del mundo criticando como se lleva la situación Covid…	undefined	undefined	Pass
+RT @internetfam: Infografía escalada de varios largos, aristas y alta montaña. Más infografías https://t.co/Lmxa8cKQqE #COVID19 https://t.c…	undefined	undefined	Pass
+RT @UsuariosanidadM: #Covid-19 “Lo que ha pasado con las residencias ha puesto al descubierto las vulnerabilidades del país ,no hay que med…	undefined	undefined	Pass
+Que no os la cuelen. La pandemia por COVID-19 no exime a las empresa a respetar la ley vigente.	undefined	undefined	Pass
+RT @DiazCanelB: Hoy, en la Mesa Redonda explicaremos  desescalamiento de las medidas de enfrentamiento a la COVID19, o sea la etapa de recu…	undefined	undefined	Pass
+Un gran número de pacientes de FQ viven en cuarentena, y son un grupo especialmente vulnerable al covid. La FQ requ… https://t.co/yCL7xiCmq7	undefined	undefined	Pass
+RT @alejandramatus: Ministerio Público versus el Minsal: Abbott oficia a Mañalich por dificultades en certificación de muertes por Covid-19…	undefined	undefined	Pass
+RT @minsaurralde: Di positivo de coronavirus. Como sociedad, hoy atravesamos el momento más difícil porque nos acercamos al pico de contagi…	undefined	undefined	Pass
+RT @doctormacias: Para dominar la primera ola de la pandemia de coronavirus, todos debemos usar cubrebocas o mascarilla en los espacios púb…	undefined	undefined	Pass
+RT @leirediezpas: Archivada la causa contra el #8M. El años que viene, si el COVID nos lo permite, van a tener siete tazas y media de mujer…	undefined	undefined	Pass
+Algo de positivo nos ha traído el COVID 19: el reto de romper paradigmas para que el trabajo sea sinónimo de algo q… https://t.co/bN46HhzpbM	undefined	undefined	Pass
+RT @patriciomedina: Autismo y Covid, una arista de la que no he leído, y de la debe haber casos. ¿Cómo explicarle a un niño con autismo la…	undefined	undefined	Pass
+RT @ccpmiranda: Te invitamos a Sinergia, el Evento que nos Une: Estrategias resilientes para el éxito empresarial por COVID-19 del 14/06 al…	undefined	undefined	Pass
+Ocho trabajadores agrícolas de Murcia que volvieron de Francia en un bus dan positivo por coronavirus https://t.co/REynNQYdTO	undefined	undefined	Pass
+RT @ana_azugas: Teleconsulta en Endocrinología y Nutrición en tiempos de pandemia COVID-19 y más allá. Documento SEEN. Nuevas formas de asi…	undefined	undefined	Pass
+RT @claudiahupkau: Este artículo resume muy bien lo que sabemos hasta ahora sobre el efecto de la Covid-19 sobre la brecha de género. Qué e…	undefined	undefined	Pass
+RT @_pamnr_: Lo unico bueno del covid es que uno ya no tiene que saludar con un beso a las personas jiji	undefined	undefined	Pass
+RT @DanielL83412758: Tu también crees que Fernando Simon a hecho un trabajo excelente en esta crisis del Covid-19?	undefined	undefined	Pass
+RT @NicoOlsze: Sorpresiva lista de países con las mejores respuestas globales contra el coronavirus: Taiwan, Singapur, Australia, Corea del…	undefined	undefined	Pass
+@eldesconcierto Debe tener un cuerpo extraño en los ojos o conjuntivitis crónica o por covid 19 ¡ que miedo!  de lo… https://t.co/6zfGsxEXZL	undefined	undefined	Pass
