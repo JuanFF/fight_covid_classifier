@@ -140,11 +140,6 @@
         "frame": "isSpecialist"
     },
     {
-        "form": "estudiante de medicina",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
         "form": "facultativo",
         "role": "specialist",
         "frame": "isSpecialist"
@@ -525,16 +520,6 @@
         "frame": "isSpecialist"
     },
     {
-        "form": "científico",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
-        "form": "científica",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
         "form": "profesional sanitario",
         "role": "specialist",
         "frame": "isSpecialist"
@@ -610,16 +595,6 @@
         "frame": "isSpecialist"
     },
     {
-        "form": "investigador",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
-        "form": "investigadora",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
         "form": "cirujano vascular",
         "role": "specialist",
         "frame": "isSpecialist"
@@ -666,11 +641,6 @@
     },
     {
         "form": "médico especialista",
-        "role": "specialist",
-        "frame": "isSpecialist"
-    },
-    {
-        "form": "\\bmd\\b",
         "role": "specialist",
         "frame": "isSpecialist"
     },
@@ -1663,5 +1633,20 @@
         "frame": "isSpecialist",
         "role": "field",
         "form": "infectología"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "medicina general"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "specialist",
+        "form": "neuroendocrinólogo"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "medicina del trabajo"
     }
 ]

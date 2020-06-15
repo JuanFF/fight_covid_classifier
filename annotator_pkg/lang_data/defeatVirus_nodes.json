@@ -2148,5 +2148,20 @@
         "frame": "defeat",
         "role": "damage",
         "form": "\\d+ casos nuevos"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "azitromicina"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "crispr"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "antiparasitario"
     }
 ]
