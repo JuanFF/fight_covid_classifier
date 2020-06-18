@@ -56,12 +56,12 @@ def checkTooSimilar (inputString, queueFilePath):
 
 def analyzeUser (status):
 
-	# user is valid if account is 'Twitter verified'
-	if status.user.verified == True:
-		return True
+	# # user is valid if account is 'Twitter verified'
+	# if status.user.verified == True:
+	# 	return True
 
-	else:
-		# must have 'description'
+	# else:
+	# must have 'description'
 		description = status.user.description
 		if description:
 
@@ -120,7 +120,6 @@ def analyzeTweet (status, queries, queueFilePath):
 
 			# classifier's label must be 'defeat'
 			if label == 'defeat':
-				writeLogFile(label, status)
 				return True
 
 	return False
