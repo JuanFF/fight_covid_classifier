@@ -1648,5 +1648,20 @@
         "frame": "isSpecialist",
         "role": "field",
         "form": "medicina del trabajo"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "medicina del deporte"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "cuidados intensivos"
+    },
+    {
+        "frame": "isSpecialist",
+        "role": "field",
+        "form": "biofarmacéutica"
     }
 ]

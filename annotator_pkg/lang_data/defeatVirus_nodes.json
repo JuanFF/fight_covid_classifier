@@ -2163,5 +2163,35 @@
         "frame": "defeat",
         "role": "type_of_weapon",
         "form": "antiparasitario"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "méxico"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "dureza"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "avance científico"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "avances científicos"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "reino unido"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "inglaterra"
     }
 ]
