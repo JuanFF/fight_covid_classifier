@@ -33,4 +33,4 @@ while True:
 			except:
 				continue
 	
-	time.sleep(900)
+	time.sleep(1200)

@@ -61,7 +61,7 @@ def analyzeUser (status):
 	# 	return True
 
 	# else:
-	# must have 'description'
+	# # must have 'description'
 		description = status.user.description
 		if description:
 
@@ -116,7 +116,7 @@ def analyzeTweet (status, queries, queueFilePath):
 			
 			# write analysis to log file
 			label = classifier.classify(message_model, messageAnnResult[0])
-			# writeLogFile(label, status)
+			writeLogFile(label, status)
 
 			# classifier's label must be 'defeat'
 			if label == 'defeat':
