@@ -2193,5 +2193,55 @@
         "frame": "defeat",
         "role": "country",
         "form": "inglaterra"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "suero"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\d(\\.|\\,|\\d)* casos"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "\\d+ (nuevos casos|casos nuevos)"
+    },
+    {
+        "frame": "defeat",
+        "role": "country",
+        "form": "pekín"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "raloxifeno"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "epidemia"
+    },
+    {
+        "frame": "defeat",
+        "role": "success",
+        "form": "bajo control"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "suero terapéutico"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "caso confirmado"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "casos confirmados"
     }
 ]
