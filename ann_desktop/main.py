@@ -4,20 +4,23 @@ from os import system
 from annotator_pkg import annotator
 from ann_desktop import *
 from classifier_pkg import classifier
-
+import random
 
 corpusName = input(colorString('\ncorpus file name > ', 'blue'))
 
 corpusPath = 'input/' + corpusName
 modelPath = '../classifier_pkg/defeatVirus.train.txt'
+vectorPath = None
+# vectorPath = '../classifier_pkg/covid.vec'
 nodesPath = '../annotator_pkg/lang_data/defeatVirus_nodes.json'
 annSchemePath = '../annotator_pkg/lang_data/defeatVirus_ann_scheme.json'
 
 
 with open(corpusPath, 'r', encoding = 'utf-8') as msgFile:
 	messages = [line.rstrip() for line in msgFile.readlines()]
+	random.shuffle(messages)
 
-model = classifier.loadModel(modelPath)
+model = classifier.loadModel(modelPath, vectorPath)
 
 for message in messages:
 
@@ -52,7 +55,7 @@ for message in messages:
 			annStringToDisplay = annResult[1]
 			queryAndAddTrain(annString, modelPath, annSchemePath)
 			print('\n')
-			model = classifier.loadModel(modelPath)
+			model = classifier.loadModel(modelPath, vectorPath)
 			classifierResult = classifier.classify(model, annString)
 			print('\n\n' + colorString(classifierResult, 'yellow') + ' | ' + colorAnnString(annStringToDisplay))
 			choice = input(colorString('\n > ', 'blue'))

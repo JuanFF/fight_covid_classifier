@@ -56,12 +56,12 @@ def checkTooSimilar (inputString, queueFilePath):
 
 def analyzeUser (status):
 
-	# # user is valid if account is 'Twitter verified'
-	# if status.user.verified == True:
-	# 	return True
+	# user is valid if account is 'Twitter verified'
+	if status.user.verified == True:
+		return True
 
-	# else:
-	# # must have 'description'
+	else:
+	# must have 'description'
 		description = status.user.description
 		if description:
 
@@ -120,6 +120,7 @@ def analyzeTweet (status, queries, queueFilePath):
 
 			# classifier's label must be 'defeat'
 			if label == 'defeat':
+				print(message)
 				return True
 
 	return False
@@ -140,11 +141,14 @@ auth.set_access_token(twitter_keys.access_token, twitter_keys.access_token_secre
 api = tweepy.API(auth) 
 
 
-description_model = classifier.loadModel('../classifier_pkg/isSpecialist.train.txt')
-message_model = classifier.loadModel('../classifier_pkg/defeatVirus.train.txt')
+description_model = classifier.loadModel('../classifier_pkg/isSpecialist.train.txt', None)
+message_model = classifier.loadModel('../classifier_pkg/defeatVirus.train.txt', '../classifier_pkg/covid.vec')
 
 
 while True:
+	# sapi = tweepy.streaming.Stream(auth, CustomStreamListener())
+	# sapi.filter(track = queries)
+
 	try:
 		print('\n' + 'Bot listening...')
 		sapi = tweepy.streaming.Stream(auth, CustomStreamListener())
