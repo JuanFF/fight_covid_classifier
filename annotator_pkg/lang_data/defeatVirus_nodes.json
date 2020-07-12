@@ -2243,5 +2243,15 @@
         "frame": "defeat",
         "role": "damage",
         "form": "casos confirmados"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "estrago"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "estragos"
     }
 ]
