@@ -142,7 +142,8 @@ api = tweepy.API(auth)
 
 
 description_model = classifier.loadModel('../classifier_pkg/isSpecialist.train.txt', None)
-message_model = classifier.loadModel('../classifier_pkg/defeatVirus.train.txt', '../classifier_pkg/covid.vec')
+# vectorFilePath = '../classifier_pkg/covid.vec'
+message_model = classifier.loadModel('../classifier_pkg/defeatVirus.train.txt', None)
 
 
 while True:
