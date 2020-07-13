@@ -2253,5 +2253,25 @@
         "frame": "defeat",
         "role": "damage",
         "form": "estragos"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "golpe duro"
+    },
+    {
+        "frame": "defeat",
+        "role": "damage",
+        "form": "duro golpe"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "wearable"
+    },
+    {
+        "frame": "defeat",
+        "role": "type_of_weapon",
+        "form": "pulsera inteligente"
     }
 ]
